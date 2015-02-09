@@ -5,7 +5,7 @@
  * Sierpinski Triangle
  *
  * @author Patrick Cheung
- * @version 1.0
+ * @version 1.1
  */
 
 import javax.swing.*;
